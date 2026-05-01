@@ -2,14 +2,12 @@
 Generate engaging children’s storybooks with AI — in both English and Arabic, complete with illustrations!
 
 ## 🌟 Overview
+In this project, we demonstrate how to build an AI-powered storybook generator using Google Colab. The system creates engaging bilingual stories for 8-year-old children in both English and Arabic. Each generated page includes: 
+- ✏️ A simple English sentence,
+- 🌍 It's Arabic translation.
+- 🎨 A representative image that visually illustrates the story content.
 
-This project demonstrates how to build an AI-powered storybook generator using Google Colab and free AI models. The system automatically creates bilingual stories for 8-year-old children, combining text and images into a visually appealing PDF book.
-
-Each generated page includes:
-
-- ✏️ A simple English sentence
-- 🌍 Its Arabic translation
-- 🎨 An AI-generated illustration
+  To achieve this, we leverage free and powerful AI models: **Meta-Llama-3-8B-Instruct** for text generation and **Stable Diffusion XL (SDXL) Base 1.0** for image creation. Additionally, we use the Gradio framework to design an interactive user interface, allowing users to select story themes such as _“Friendship and Desert Adventure,” “Animals in the Forest,” or “Space Adventure.”_ The final output is automatically compiled into a well-structured PDF storybook.
 
 This project is ideal for:
 
