@@ -71,7 +71,7 @@ Arabic: سار الجمل الصغير في الصحراء.
 Image: (AI-generated illustration)
 ```
 ## 📱 video explanation
-
+https://www.youtube.com/watch?v=re5J59trGiI
 ## 🔧 project limitation
 - There are some issues with Arabic typography due to the free LLM. 
 - There are some limitations in image generation, and we cannot maintain the same personality and character consistency across all images.
